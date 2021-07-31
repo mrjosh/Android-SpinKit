@@ -13,7 +13,7 @@
 
  ``` gradle
 dependencies {
-    implementation 'com.github.ybq:Android-SpinKit:1.4.0'
+    implementation 'net.mrjosh:Android-SpinKit:1.4.0'
  }
  ```
 
@@ -22,7 +22,7 @@ dependencies {
 - Xml
 
  ```xml
-<com.github.ybq.android.spinkit.SpinKitView
+<net.mrjosh.android.spinkit.SpinKitView
      xmlns:app="http://schemas.android.com/apk/res-auto"
      android:id="@+id/spin_kit"
      style="@style/SpinKitView.Large.Circle"
